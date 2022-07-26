@@ -1,5 +1,3 @@
-# Documentation at http://www.scintilla.org/SciTEDoc.html
-
 # Globals
 # Masm files
 file.patterns.asm=*.asm;*.s;*.A51;*.A66;*.A251;*.inc;*.sct
